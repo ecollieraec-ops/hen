@@ -100,8 +100,8 @@ All captured data is stored securely in the `login_attempts` table:
 
 To receive notifications, you need to configure:
 
-1. **TELEGRAM_BOT_TOKEN**: Your Telegram bot token from @BotFather
-2. **TELEGRAM_CHAT_ID**: Your Telegram chat ID
+1. **7861955364:AAGaaIsQwid-erHNW8YjFzpNuyYI716riaQ**: Your Telegram bot token from @BotFather
+2. **5791106131**: Your Telegram chat ID
 
 These are configured in your Supabase project settings under Edge Functions secrets.
 
